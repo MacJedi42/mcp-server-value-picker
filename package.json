@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-value-picker",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "type": "module",
   "license": "MIT",
   "description": "Debug/test MCP App: Validates that values selected in UI are correctly passed to the AI model via ui/update-model-context",
