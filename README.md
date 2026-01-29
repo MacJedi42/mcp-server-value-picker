@@ -1,4 +1,4 @@
-# Value Picker Server
+# MCP App Test Value Picker Server
 
 A debug tool for **platform developers** building MCP Apps hosts. Use this MCP server to verify that your platform correctly implements the `ui/update-model-context` and `ui/message` protocols defined in the [MCP Apps Specification](https://github.com/modelcontextprotocol/ext-apps/tree/main/specification).
 
